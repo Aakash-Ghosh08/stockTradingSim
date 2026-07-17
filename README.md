@@ -18,7 +18,7 @@ A command-line stock trading simulator written in Python. Buy and sell stocks wi
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/StockTrader.git
+git clone https://github.com/<your-username>/StockTradingSim.git
 cd StockTrader
 ```
 
