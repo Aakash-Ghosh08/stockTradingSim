@@ -1,0 +1,40 @@
+{
+  "cash": 100000.0,
+  "portfolio": {},
+  "stock_prices": {
+    "AAPL": 333.74,
+    "MSFT": 393.77,
+    "GOOGL": 176.8,
+    "TSLA": 247.5,
+    "AMZN": 180.6
+  },
+  "stock_price_history": {
+    "AAPL": [
+      182.3,
+      333.74
+    ],
+    "MSFT": [
+      415.1,
+      393.77
+    ],
+    "GOOGL": [
+      176.8
+    ],
+    "TSLA": [
+      247.5
+    ],
+    "AMZN": [
+      180.6
+    ]
+  },
+  "transactions": [],
+  "net_worth_history": [
+    {
+      "timestamp": "2026-07-17 15:57:48",
+      "net_worth": 100000.0,
+      "cash": 100000.0,
+      "portfolio_value": 0.0
+    }
+  ],
+  "tick_count": 0
+}
